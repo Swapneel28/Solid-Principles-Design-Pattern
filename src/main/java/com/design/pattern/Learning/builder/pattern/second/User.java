@@ -2,8 +2,6 @@ package com.design.pattern.Learning.builder.pattern.second;
 
 import java.time.LocalDate;
 
-import com.design.pattern.Learning.builder.pattern.second.Address;
-
 public class User {
 	
 	private String firstName;
